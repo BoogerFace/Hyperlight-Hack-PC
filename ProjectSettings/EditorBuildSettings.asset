@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 1c8cc0c266bd96e4ab73882769e761f5
+  - enabled: 1
+    path: Assets/Scenes/CommunicationScene.unity
+    guid: d2f9bcb597fc8cf458fddafd158c83d6
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: b8dc479a81d8bf14b8dada6b15f48cca
+  - enabled: 1
+    path: Assets/Scenes/CommunicationScene 1.unity
+    guid: 445188b6ee4fd68479fa96259b023b32
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 56b77c25c8fc9274494efc76ca0d7439
+  - enabled: 1
+    path: Assets/Scenes/CommunicationScene 2.unity
+    guid: 1dcbdea479b346d4d9fdf7f484171fa4
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: cd4886ce63af11643a68eca71a62347d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 58e19abc2281d3d4d884147387833c09
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 305e57d54de20ff4b97da13a951cc0a9, type: 3}
